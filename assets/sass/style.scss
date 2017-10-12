@@ -107,7 +107,7 @@ table {
     margin-bottom:40px;
     width: 100%;
 
-    tbody > tr:nth-child(odd) > td, 
+    tbody > tr:nth-child(odd) > td,
     tbody > tr:nth-child(odd) > th {
         background-color: #f7f7f3;
     }
@@ -245,11 +245,21 @@ table {
 
 .site-nav-item {
     display: inline-block;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     margin: 0 10px;
 
     a:hover { color: #424242; }
+}
+
+.fa {
+  font-size: 110% !important;
+}
+
+.fa-external-link {
+  position: relative;
+  bottom: 6px;
+  font-size: 72% !important;
 }
 
 /* ============================================================ */
@@ -593,7 +603,7 @@ table {
         margin-top: 5px;
     }
 
-    .post-date, 
+    .post-date,
     .blog-description,
     .author-meta {
         margin-top: 20px;
@@ -662,13 +672,13 @@ table {
         line-height: 1.2;
     }
 
-    .post-date, 
+    .post-date,
     .blog-description,
     .author-meta {
         line-height: 1.6;
     }
 
-    .post-date, 
+    .post-date,
     .blog-description,
     .author-meta {
         margin-top: 10px;

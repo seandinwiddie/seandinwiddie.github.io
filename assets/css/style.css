@@ -216,11 +216,19 @@ table {
 
 .site-nav-item {
   display: inline-block;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   margin: 0 10px; }
   .site-nav-item a:hover {
     color: #424242; }
+
+.fa {
+  font-size: 110% !important; }
+
+.fa-external-link {
+  position: relative;
+  bottom: 6px;
+  font-size: 72% !important; }
 
 /* ============================================================ */
 /* Post */
