@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: https://seandinwiddie.github.io/sitemap.xml
-Disallow: /ghost/

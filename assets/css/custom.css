@@ -1,0 +1,116 @@
+h1,
+h1 a,
+.h1,
+.h1 a,
+h2,
+h2 a,
+.h2,
+.h2 a,
+h3,
+h3 a,
+.h3,
+.h3 a,
+h4,
+h4 a,
+.h4,
+.h4 a
+h5,
+h5 a,
+.h5,
+.h5 a
+h6,
+h6 a,
+.h6,
+.h6 a,
+.verso-nav-list > li > a
+{
+  font-family: Nunito !important;
+  font-weight: bold !important;
+}
+
+h1,
+h1 a,
+.h1,
+.h1 a
+{
+  font-size: 24px !important;
+  line-height: 2.4 !important;
+}
+.verso-nav-brand h1
+{
+  margin: initial;
+}
+
+h2,
+h2 a,
+.h2,
+.h2 a
+{
+  font-size: 22px !important;
+  line-height: 2.2 !important;
+}
+
+h3,
+h3 a,
+.h3,
+.h3 a
+{
+  font-size: 20px !important;
+  line-height: 2 !important;
+}
+
+h4,
+h4 a,
+.h4,
+.h4 a
+{
+  font-size: 18px !important;
+  line-height: 1.8 !important;
+}
+
+h5,
+h5 a,
+.h5,
+.h5 a
+{
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+}
+
+h6,
+h6 a,
+.h6,
+.h6 a
+{
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+}
+
+.verso-demo-bg-image-01
+{
+  background-image: url(../images/sean-dinwiddie-bg-1024x4352.jpg);
+}
+
+p,
+.verso-nav-list > li > a
+{
+  font-size: 18px !important;
+}
+
+p
+{
+  font-family: Merriweather !important;
+  line-height: 1.8 !important;
+}
+
+.verso-nav-list > li.active> a:before,
+.verso-nav-list > li > a:hover:before
+{
+  width: 60px !important;
+}
+
+.fa-external-link {
+    position: relative;
+    bottom: 6px;
+    font-size: 72% !important;
+}
