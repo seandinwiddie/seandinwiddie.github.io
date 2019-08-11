@@ -60,6 +60,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/seand/OneDrive/Documents/GitHub/seandinwiddie.github.io/index.html",
 		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/participantReminderForm.cfm",
 		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/labels.cfm",
 		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/application.cfc",
@@ -95,12 +96,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "C:\\Users\\seand\\OneDrive\\Documents\\GitHub\\seandinwiddie.github.io"
-		}
-	],
 	"groups":
 	[
 		{
@@ -145,7 +140,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "",
+	"project": "seandinwiddie-github-io.sublime-project",
 	"replace":
 	{
 		"height": 0.0
